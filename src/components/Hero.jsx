@@ -247,7 +247,7 @@ const Hero = () => {
                     htmlFor="hero-phone"
                     className="block text-sm font-semibold text-gray-700 mb-1.5 font-body"
                   >
-                    Phone Number *
+                    Mobile Number *
                   </label>
                   <input
                     type="tel"
