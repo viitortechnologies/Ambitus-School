@@ -171,7 +171,7 @@ const ContactFooter = () => {
                     htmlFor="phone"
                     className="block text-xs sm:text-sm font-semibold text-gray-700 mb-1.5 sm:mb-2 font-body"
                   >
-                    Phone Number *
+                    Mobile Number *
                   </label>
                   <input
                     type="tel"
